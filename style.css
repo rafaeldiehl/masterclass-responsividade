@@ -415,7 +415,7 @@ MEDIA QUERYS
   .menu-toggle {
     width: 40px;
     height: 30px;
-    margin-right: 20px;
+    margin-right: 6px;
   }
 
   /* fullscreen */
@@ -442,8 +442,8 @@ MEDIA QUERYS
 
   .menu-section.on .menu-toggle {
     position: absolute;
-    right: 5px;
-    top: 15px;
+    right: 18px;
+    top: 13px;
   }
 
   .menu-section.on .menu-toggle .one {
